@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatRobot</string>
+    <string-array name="welcome_tips">
+        <item>哟,您老人家来啦!</item>
+        <item>干啥?</item>
+        <item>在么?</item>
+        <item>在干吗</item>
+        <item>你是?</item>
+        <item>嘿</item>
+        <item>exo me?</item>
+    </string-array>
+</resources>
